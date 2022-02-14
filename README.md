@@ -11,9 +11,9 @@
 
 Our project was created using the code first methodology.
 
-It is a mini project and is designed as a holiday transportation website.
+It is a mini project and is designed as a travel transportation website.
 
-<img src="https://media.giphy.com/media/l0MYPIsEjIrUFYNs4/giphy.gif" align ="right" >
+<img src="https://media.giphy.com/media/IzL667EYx01N8TXN9k/giphy-downsized-large.gif" align ="right" >
 
 ## Hi there, I'm Tundzher. :blush:
 
@@ -57,7 +57,7 @@ It is a mini project and is designed as a holiday transportation website.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm&layout=compact" >
 </details>
 
-<img src="https://media.giphy.com/media/SyPXYZDvcxLdLZGpko/giphy.gif" align ="left" width="400" height="250"  >
+<img src="https://media.giphy.com/media/AErExHJVxRbkm5hPkB/giphy.gif" align ="left" width="400" height="250"  >
 
 [twitter]: https://twitter.com/tuncerRstm
 [linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
