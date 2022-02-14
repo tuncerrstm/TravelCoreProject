@@ -11,6 +11,8 @@
 
 Our project was created using the code first methodology.
 
+It is a mini project and is designed as a holiday transportation website.
+
 <img src="https://media.giphy.com/media/l0MYPIsEjIrUFYNs4/giphy.gif" align ="right" >
 
 ## Hi there, I'm Tundzher. :blush:
