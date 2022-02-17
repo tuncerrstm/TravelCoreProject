@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ar9M7cyHUls10ztju0q9Y1ZPx08HHXdZvn3eboxsjmXQNkhQ001jEXif0ZYvtPJOo5ZHuWDb6stiAqpyQw1Csg==",
+  "dgSpecHash": "xYc/qzJ4B9cLtWATTWny5dSk/TfO27vpHEACV3urZBIlbJ2ycEPNpoN60jwvtOoJB8OZkUB+gVSiBOikjJEleg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tuncer Rüstemoğlu\\source\\repos\\TravelCoreProject\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
