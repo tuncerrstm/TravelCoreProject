@@ -8,6 +8,7 @@
 - .NET Core
 - MVC Pattern
 - N-Tier Architecture
+- Razor View
 
 Our project was created using the code first methodology.
 
