@@ -161,3 +161,4 @@ C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\ob
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\LayoutPartial\_FooterPartial.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\LayoutPartial\_ScriptsPartial.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
+C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestinations\Default.cshtml.g.cs
