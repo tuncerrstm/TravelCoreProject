@@ -56,7 +56,6 @@ C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\ob
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\TravelCoreProject.RazorAssemblyInfo.cache
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\TravelCoreProject.RazorAssemblyInfo.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\staticwebassets\TravelCoreProject.StaticWebAssets.Manifest.cache
-C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\staticwebassets\TravelCoreProject.StaticWebAssets.xml
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\scopedcss\bundle\TravelCoreProject.styles.css
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\TravelCoreProject.TagHelpers.input.cache
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\TravelCoreProject.TagHelpers.output.cache
@@ -166,3 +165,5 @@ C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\ob
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_Feature\Default.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_SubAbout\Default.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_Testimonial\Default.cshtml.g.cs
+C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
+C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs
