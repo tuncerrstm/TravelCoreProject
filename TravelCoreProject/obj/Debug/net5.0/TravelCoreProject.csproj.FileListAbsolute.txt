@@ -168,5 +168,4 @@ C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\ob
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_CommentList\Default.cshtml.g.cs
-C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_AddComment\Default.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
