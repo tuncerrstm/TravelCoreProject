@@ -174,3 +174,5 @@ C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\bi
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
+C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Views\Login\SignIn.cshtml.g.cs
