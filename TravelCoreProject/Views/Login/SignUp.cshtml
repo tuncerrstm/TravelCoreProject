@@ -91,9 +91,12 @@
                             <input type="password" asp-for="ConfirmPassword" />
                             <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                         </div>
+                        <div class="text-danger" asp-validation-summary="ModelOnly">
+
+                        </div>
 
                         <label class="container">
-                            I agree to <a href="#">Conditions</a> of Use and @*<a href="#">Privacy</a>*@
+                            I agree to <a href="#">Conditions</a> of Use and Privacy @*<a href="#">Privacy</a>*@
                             <input type="checkbox">
                             <span class="checkmark"></span>
                         </label>
