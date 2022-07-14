@@ -190,3 +190,4 @@ C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\ob
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\NewReservation.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyCurrentReservation.cshtml.g.cs
 C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyOldReservation.cshtml.g.cs
+C:\Users\Tuncer Rüstemoğlu\source\repos\TravelCoreProject\TravelCoreProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyApprovalReservation.cshtml.g.cs
